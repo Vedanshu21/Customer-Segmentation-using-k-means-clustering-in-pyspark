@@ -9,15 +9,16 @@ The dataset used is an e-commerce dataset that contains transactions for a UK-ba
 
 The dataset contains the following relevant columns needed for our analysis:<br>
 <ul>
-<li>InvoiceNo. Unique id for each sale</li>.
+<li>InvoiceNo. Unique id for each sale.</li>
 <li>StockCode. Unique id for each product.</li>
 <li>Quantity. Number of units bought.</li>
-<li>InvioceDate. Date of the sale</li>.
+<li>InvioceDate. Date of the sale.</li>
 <li>UnitPrice. Retail price of the product.</li>
-<li>CustomerID. Unique id for each customer</li>.
+<li>CustomerID. Unique id for each customer</li>
 </ul>
 <br>
 <br>
+
 ## Stepwise explanation:
 
 <ol>
